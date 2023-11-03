@@ -20,7 +20,7 @@ class AdminsTableSeeder extends Seeder
                 'nom' => 'Theresina',
                 'type' => 'admin',
                 'apprenant_id' => 0,
-                'telephone' => '57531441',
+                'telephone' => '72292739',
                 'email' => 'theresinad@gmail.com',
                 'password' => Hash::make('mary'),
                 'status' => 1,
